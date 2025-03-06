@@ -1,0 +1,3 @@
+/home/zm-ubuntu18/chatsever/chatserver-master/chatserver-master/test/testmuduo/bin/CMakeFiles/server.dir
+/home/zm-ubuntu18/chatsever/chatserver-master/chatserver-master/test/testmuduo/bin/CMakeFiles/edit_cache.dir
+/home/zm-ubuntu18/chatsever/chatserver-master/chatserver-master/test/testmuduo/bin/CMakeFiles/rebuild_cache.dir
